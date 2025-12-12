@@ -3,7 +3,7 @@
 ## ✨ Demonstração do Sistema
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vidall-Dev/ArvuPay/main/assets/TELAINICIAL" alt="Interface do sistema ArvuPay em funcionamento" width="700"/>
+  <img src="https://github.com/Vidall-Dev/ArvuPay/blob/7b168c09d5d54dccb4149160efc370aa5e2b838c/assets/Arvupaytela.png" alt="Interface do sistema ArvuPay em funcionamento" width="700"/>
 </div>
 
 ---
